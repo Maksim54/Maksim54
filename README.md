@@ -1,6 +1,6 @@
 <h3 align="center">Photoshop designer from Estonia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord:</h3>
 <p align="left">Wh1stle#2053</p>
 
 <h3 align="left">Languages and Tools:</h3>
